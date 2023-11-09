@@ -122,7 +122,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto-hide sensitive info, auto-fill background color. Other features: annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
 |  🤑 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | ResizeGenius is a macOS app for effortless batch resizing and editing of images. This powerful yet user-friendly application is designed to streamline your image processing tasks, enabling you to resize multiple images simultaneously while maintaining your preferred configurations, just like following a resizing recipe. | 50% OFF with code **BLACKFRIDAY2023** |
-|  💰 | [snappify](https://snappify.com) | Create stunning Code Presentations with smooth animations and export them as Videos. From creating Social Media content, to Explanatory Videos and Technical Slides - snappify got you covered! | 30% OFF first year with code **BLACKFRIDAY_2023** |
+|  💰 | [snappify](https://snappify.com) | Create stunning Code Presentations with smooth animations and export them as Videos. From creating  Media content, to Explanatory Videos and Technical Slides - snappify got you covered! | 30% OFF first year with code **BLACKFRIDAY_2023** |
 |  💰 | [SMBImg](https://smbimg.com) | Take screenshots, apply unique backgrounds and customize the watermarks. Features: rounded corners, shadows, predefined image sizes, zooming, custom offsets. Export to webp, jpeg, png and gif. | 40% OFF first year with code **BF2023** |
 |  🤑 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 60% discount on biannual plans. |
 
@@ -235,15 +235,17 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🌏 Social Media Tools
+## 🌏  Media Tools
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2023 for 40% off first year on annual plan |
-|  🤑 | [Assembly](https://assembly.marketing?utm_source=black_friday) | Assembly offers end to end tooling for your social workflow. Draft posts with a Notion-like editor, manage approvals of posts using Slack, and analyze your posts analytics across every social channel all in one place. P.S. if you do a lot of content, we also support bulk uploading and scheduling of social posts via CSV! | BLACKFRIDAY2023 for 50% off for 3 months |
+|  🤑 | [Assembly](https://assembly.marketing?utm_source=black_friday) | Assembly offers end to end tooling for your  workflow. Draft posts with a Notion-like editor, manage approvals of posts using Slack, and analyze your posts analytics across every  channel all in one place. P.S. if you do a lot of content, we also support bulk uploading and scheduling of social posts via CSV! | BLACKFRIDAY2023 for 50% off for 3 months |
 |  💰 | [Mixpost](https://mixpost.app?utm_source=awesome_black_friday) | Self-hosted software that allows you to schedule and organize all of your social content in one place, without limits or monthly subscriptions. Run Mixpost on your server, take control of your data, and pay less for a powerful social media management tool. | 30% OFF - auto-discount |
 |  💰 | [Hypefury](https://hypefury.com/) | Get inspiration to write your next viral post, bulk-write and schedule your content, and get more engagement on auto-pilot. | **BLACKFRIDAY2023PR** (35% off One year Premium)<br/>**BLACKFRIDAY2023ST** (30% off One year Standard) |
 |  🤑 | [TinyZap⚡️](https://tinyzap.com?utm_source=black_friday) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social media posts. More people visit these visual links and spend time on your 🫵 websites, apps, and web destinations. | 50% off when you checkout at https://tinyzap.com/plus |
+|  🤑 | [LiveReacting](https://www.livereacting.com) | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | BLACK_FRIDAY_2023_G for 50% off for Pay as you go plan |
+|  🤑 | [Countdow Timer App](https://www.countdown-timer.app) | Publish auto-updating countdown timers directly on your Facebook page. | BLACK_FRIDAY_2023_G for 30% off for PRO plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
